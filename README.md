@@ -15,10 +15,15 @@
  - wofi
  - Neofetch
 
-### To add
+### Configs to add
 
  - NVIM
  - Swaync
  - Swaylock
  - Noctillia Shell
  - Nautilus
+
+### Other targets
+
+ - Install script
+ - Sources
